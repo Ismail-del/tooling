@@ -17,7 +17,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="tooling_stylesheets.css">
    <script src="script.js"></script> 
-    <title>Tooling App Via jenkins</title>
+    <title>Tooling App Via jenkins Test</title>
 </head>
 
 
